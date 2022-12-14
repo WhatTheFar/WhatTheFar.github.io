@@ -1,0 +1,6 @@
+@import url('https://unpkg.com/@catppuccin/palette@0.1.4/css/catppuccin.css');
+
+a.tag[data-ref="feedback"]{ padding:0 7px; border-radius:10px; margin:2px 0; color: white !important; background-color: var(--ctp-latte-lavender)}.content
+a.tag[data-ref="done"]{ padding:0 7px; border-radius:10px; margin:2px 0; color: white !important; background-color: var(--ctp-latte-mauve)}.content
+
+a.tag[data-ref="log"]{ padding:0 7px; border-radius:10px; margin:2px 0; color: white !important; background-color: var(--ctp-latte-overlay0)}.content
